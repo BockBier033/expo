@@ -68,7 +68,7 @@ Expo Go is configured by default to automatically reload the app whenever a file
 
 </p>
 </details>
-
+x
 ## Up next
 
 Let's face it: you are going to make mistakes and typos and you are going to get warnings and errors in your app. So [let's learn a little bit about how to read and interpret errors](../get-started/errors.md).
